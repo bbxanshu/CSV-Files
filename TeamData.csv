@@ -1,40 +1,40 @@
-Team Name	SM Name	CDL Name	Sprint Number	Iteration Number	Happiness Index	Team Enthusiasm	HPTA Score	%Retention	Product Ownership	Available Capacity	Man Days	Product Vision	%Test Automation (new code)	%Test Automation (overall)	Unit test coverage	UI Automation Coverage	%Bug effort	Defects	Live Defects	Number of Bugs fixed	%Reusability	FRT Failure	Technical Debt	Delivery Time	Release Plan % met	Velocity	Committed vs Delivered Stories	Scrum mastership	Team's adherence to agile practices	Work item age	Deploy frequency	Lead Time	Change Fail %	Time To Restore	Availability	Performance	Latency		
-Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	1	1	7.6	7.6							88				17									32.5	112				 Between once per week and once per month								
-Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	3	3	8.1	8.2			7.5				88				27		0							32	106		8		 Between once per week and once per month	One to six months			95				
-Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	5	4	7	8.2			7				0				16.5		1							33.5	100		8.5		 Between once per week and once per month	One to six months			95				
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	1	1	9.8				10	74	153			5	72.5			1								42	123.5	10			Between once per month & once per 6 months	One to six months							
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	2	2	9.6				10	53.5	107			6	84			5								57	108.5	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	3	3	9.2				9.8	54.2	112			10				3								61.7	109	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	4	4	9.2				9.8	106.2	226			10	83			3								119.5	110.5	10			Between once per month and once every six months	One to six months	0-15	 Less than one hour					
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	5	5	9.4				9.8	101.25	216			15	83			7								116	103	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	6	6	9.3				10	95.5	205.5			17	83			3								123.5	118	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					
-SDWorx Finland - QA	Bikash Mohan	Rahul Oswal	1	4	8.5		9.6							60							75			3			100			3	 Between once per day and once per week				80	90			
-SDWorx Finland - Dev	Bikash Mohan	Rahul Oswal	1	4	9		9.5														10			4			100		10	4	 Between once per day and once per week					80			
-SDWorx Finland - QA	Bikash Mohan	Rahul Oswal	2	6	9		9.5							70				0			80			3			100		9	3	 Between once per week and once per month		0-15		100	90			
-SDWorx Finland - Dev	Bikash Mohan	Rahul Oswal	2	6	9		9.6														10			4			100		10	4	 Between once per week and once per month		0-15		100	85			
-Eneco Datahub	Kishore Nelakuditi	Srinivas Kempanna	1	6			8.4	100												5	50		2800				140	9	10		On demand	 One day to one week		 Less than one hour					
-Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	3	3		8.5			9.6																		100	8.5			 Between once per day and once per week								
-Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	4	4		9.8			9.5																		123.3	9.3			 Between once per day and once per week								
-Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	5	5		10			8.6									0				0					86	8.6			 Between once per day and once per week		0-15						
-Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	6	6		9.4			10									2				0			0		97	9.2			 Between once per day and once per week		0-15						
-Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	7	7		9.8			9.8									2				0			0		92	9.8			 Between once per day and once per week		0-15						
-Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	7	6	7	8.5			7				84				3		0							31	100		8.5		 Between once per week and once per month	One to six months			95				
-Brisker	Akshay Shettar	Priyadarshini Angolkar	64	4	8	8	9		9					75	75	45		0	1		10							8	8		 Between once per week and once per month	 One day to one week	0-15	 Less than one day			10ms - 10s		
-Brisker	Akshay Shettar	Priyadarshini Angolkar	69	6	9	9	9		9					75	75	45		0	1		0							8	8		 Between once per week and once per month	 One day to one week	0-15	 Less than one day			10ms - 10s		
-Peakzi	Manisha Dutt	Sabarinath Natarajan	1	6	7	8									8											9		7	6		 Between once per day and once per week						1s		
-SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	23.7	4	7	7																					54		7										
-SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	23.9	6	7	7			7																		60	10											
-SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	24.1	8	6	6			7																		48	10											
-AIMMS	Praveen Varghese	Srinivas Kempanna	1	6	9	9						10				100											88	9			 Between once per week and once per month	 One day to one week	0-15						
-Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	9	8	7	8.5			7								4		0							31.5	100		9		 Between once per week and once per month	One to six months			95				
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	2124	7	9.6				10	104.7	224			22	80			2								135.5	110	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	2427	8	9.2				10	99.5	213			24	80			2								138	116	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					
-Exact Kalopsia	Sritaj Patel	Priyadarshini Angolkar	47	5	8		8																				105	10	8		 Between once per day and once per week	 One day to one week	0-15	 Less than one day					
-AIMMS	Praveen Varghese	Srinivas Kempanna	3	9	10	10						10				90											100	9			 Between once per week and once per month	 One day to one week	0-15						
-Brisker	Akshay Shettar	Priyadarshini Angolkar	73	9	9	9	9		9					60	32													8	8		 Between once per week and once per month	 One day to one week	0-15	 Less than one day					
-Exact Parentix	Harsha Menda	Priyadarshini Angolkar	4547	9	6.5	7							100							1					70		80		7										
-Exact-FG	Palvi Jojra, Harsha Menda	Priyadarshini Angolkar	4245	9	9.2				10	90.5	191			35	85			2								122	120	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					
-Exact Transformers	Sherin KK	Priyadarshini Angolkar	23	9		10			10									0				0					123	10			 Between once per week and once per month	 One day to one week	0-15						
-SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	24.22	9	7	8			9																		105	10											
-SDWorx Finland - Dev	Bikash Mohan	Rahul Oswal	6	9	9.5		9.3														90			3			140				 Between once per week and once per month								
-SDWorx Finland - QA-Payroll	Bikash Mohan	Rahul Oswal	6	9	9.5	9.5								85							90			3					8		 Between once per week and once per month								
+"Team Name	SM Name	CDL Name	Sprint Number	Iteration Number	Happiness Index	Team Enthusiasm	HPTA Score	%Retention	Product Ownership	Available Capacity	Man Days	Product Vision	%Test Automation (new code)	%Test Automation (overall)	Unit test coverage	UI Automation Coverage	%Bug effort	Defects	Live Defects	Number of Bugs fixed	%Reusability	FRT Failure	Technical Debt	Delivery Time	Release Plan % met	Velocity	Committed vs Delivered Stories	Scrum mastership	Team's adherence to agile practices	Work item age	Deploy frequency	Lead Time	Change Fail %	Time To Restore	Availability	Performance	Latency		"	
+"Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	1	1	7.6	7.6							88				17									32.5	112				 Between once per week and once per month								"	
+"Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	3	3	8.1	8.2			7.5				88				27		0							32	106		8		 Between once per week and once per month	One to six months			95				"	
+"Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	5	4	7	8.2			7				0				16.5		1							33.5	100		8.5		 Between once per week and once per month	One to six months			95				"	
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	1	1	9.8				10	74	153			5	72.5			1								42	123.5	10			Between once per month & once per 6 months	One to six months							"
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	2	2	9.6				10	53.5	107			6	84			5								57	108.5	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					"
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	3	3	9.2				9.8	54.2	112			10				3								61.7	109	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					"
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	4	4	9.2				9.8	106.2	226			10	83			3								119.5	110.5	10			Between once per month and once every six months	One to six months	0-15	 Less than one hour					"
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	5	5	9.4				9.8	101.25	216			15	83			7								116	103	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					"
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	6	6	9.3				10	95.5	205.5			17	83			3								123.5	118	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					"
+"SDWorx Finland - QA	Bikash Mohan	Rahul Oswal	1	4	8.5		9.6							60							75			3			100			3	 Between once per day and once per week				80	90			"	
+"SDWorx Finland - Dev	Bikash Mohan	Rahul Oswal	1	4	9		9.5														10			4			100		10	4	 Between once per day and once per week					80			"	
+"SDWorx Finland - QA	Bikash Mohan	Rahul Oswal	2	6	9		9.5							70				0			80			3			100		9	3	 Between once per week and once per month		0-15		100	90			"	
+"SDWorx Finland - Dev	Bikash Mohan	Rahul Oswal	2	6	9		9.6														10			4			100		10	4	 Between once per week and once per month		0-15		100	85			"	
+"Eneco Datahub	Kishore Nelakuditi	Srinivas Kempanna	1	6			8.4	100												5	50		2800				140	9	10		On demand	 One day to one week		 Less than one hour					"	
+"Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	3	3		8.5			9.6																		100	8.5			 Between once per day and once per week								"	
+"Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	4	4		9.8			9.5																		123.3	9.3			 Between once per day and once per week								"	
+"Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	5	5		10			8.6									0				0					86	8.6			 Between once per day and once per week		0-15						"	
+"Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	6	6		9.4			10									2				0			0		97	9.2			 Between once per day and once per week		0-15						"	
+"Exact-Titans	Supriya Bansal	Priyadarshini Angolkar	7	7		9.8			9.8									2				0			0		92	9.8			 Between once per day and once per week		0-15						"	
+"Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	7	6	7	8.5			7				84				3		0							31	100		8.5		 Between once per week and once per month	One to six months			95				"	
+"Brisker	Akshay Shettar	Priyadarshini Angolkar	64	4	8	8	9		9					75	75	45		0	1		10							8	8		 Between once per week and once per month	 One day to one week	0-15	 Less than one day			10ms - 10s		"	
+"Brisker	Akshay Shettar	Priyadarshini Angolkar	69	6	9	9	9		9					75	75	45		0	1		0							8	8		 Between once per week and once per month	 One day to one week	0-15	 Less than one day			10ms - 10s		"	
+"Peakzi	Manisha Dutt	Sabarinath Natarajan	1	6	7	8									8											9		7	6		 Between once per day and once per week						1s		"	
+"SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	23.7	4	7	7																					54		7										"	
+"SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	23.9	6	7	7			7																		60	10											"	
+"SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	24.1	8	6	6			7																		48	10											"	
+"AIMMS	Praveen Varghese	Srinivas Kempanna	1	6	9	9						10				100											88	9			 Between once per week and once per month	 One day to one week	0-15						"	
+"Calvi Aurora	Bindhya Ramanjaneya	Priyadarshini Angolkar	9	8	7	8.5			7								4		0							31.5	100		9		 Between once per week and once per month	One to six months			95				"	
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	2124	7	9.6				10	104.7	224			22	80			2								135.5	110	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					"
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	2427	8	9.2				10	99.5	213			24	80			2								138	116	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					"
+"Exact Kalopsia	Sritaj Patel	Priyadarshini Angolkar	47	5	8		8																				105	10	8		 Between once per day and once per week	 One day to one week	0-15	 Less than one day					"	
+"AIMMS	Praveen Varghese	Srinivas Kempanna	3	9	10	10						10				90											100	9			 Between once per week and once per month	 One day to one week	0-15						"	
+"Brisker	Akshay Shettar	Priyadarshini Angolkar	73	9	9	9	9		9					60	32													8	8		 Between once per week and once per month	 One day to one week	0-15	 Less than one day					"	
+"Exact Parentix	Harsha Menda	Priyadarshini Angolkar	4547	9	6.5	7							100							1					70		80		7										"	
+"Exact-FG	Palvi Jojra"	" Harsha Menda	Priyadarshini Angolkar	4245	9	9.2				10	90.5	191			35	85			2								122	120	10			Between once per month & once per 6 months	One to six months	0-15	 Less than one hour					"
+"Exact Transformers	Sherin KK	Priyadarshini Angolkar	23	9		10			10									0				0					123	10			 Between once per week and once per month	 One day to one week	0-15						"	
+"SDWorx-Devops	Ashish Sahoo	Priyadarshini Angolkar	24.22	9	7	8			9																		105	10											"	
+"SDWorx Finland - Dev	Bikash Mohan	Rahul Oswal	6	9	9.5		9.3														90			3			140				 Between once per week and once per month								"	
+"SDWorx Finland - QA-Payroll	Bikash Mohan	Rahul Oswal	6	9	9.5	9.5								85							90			3					8		 Between once per week and once per month								"	
